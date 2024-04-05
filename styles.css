@@ -79,6 +79,7 @@ nav ul li a:hover {
 
 #main p {
     text-indent: 1.5em;
+    text-align: center;
 }
 
 figure{
@@ -111,8 +112,8 @@ h2 {
 h3 {
     text-align: center;
     padding-bottom: .5em;
-    padding-top: 0.5em;
-    line-height: 20px;
+    padding-top: .5em;
+    line-height: 40px;
 }
 
 footer {
