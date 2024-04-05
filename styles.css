@@ -25,6 +25,7 @@ body {
     border-width: 1px;
     margin: 0 auto;
     background-color: BurlyWood;
+    border-radius: 25px;
 }
 
 
@@ -132,9 +133,9 @@ footer {
     margin-bottom: 10px;
     border: 2px solid;
     border-radius: 25px;
+    }
     
-    
-}/* navigation for footer */
+    /* navigation for footer */
 footer a:link {
     color: white;
     text-decoration: none;
